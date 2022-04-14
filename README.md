@@ -23,4 +23,4 @@ This is the repo for the telesurgery project that runs on the HMD
 >All scripts are similar to the Unity project. However, since OpenZen does not run on UWP, the joint data is sent through UDP network. HMD is the client and receives the data. On the sender side (Unity program on the computer) Set the IP as the IP of the HoloLens. The port number must be the same on both server and the client.
 
 * **`UDPCommunication.cs`**
->UDP client function to receive joint information on the HMD from the Unity.
+>UDP client function to receive the joint information on the HMD from the server (Unity).
