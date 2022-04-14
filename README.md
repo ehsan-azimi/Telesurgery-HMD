@@ -1,6 +1,6 @@
 
 # Telesurgery-HMD
-This is the repo for the telesurgery project that runs on the HMD, as of 04/13/2022. 
+This is the repo for the telesurgery project that runs on the HMD
 
 ## Installation
 
